@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw, ImageFilter
 
 # ── Page config ─────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_=tite"Chameleon Wallpaper",
+    page_tite="Chameleon Wallpaper",
     page_icon="🦎",
     layout="centered",
     initial_sidebar_state="collapsed",
