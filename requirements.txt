@@ -1,0 +1,10 @@
+# ── Dev / Desktop testing ──────────────────────────────────────────────────
+kivy==2.3.0
+Pillow>=10.0.0
+buildozer>=1.5.0      # builds the Android APK
+
+# ── For building APK (used by buildozer internally) ────────────────────────
+# Do NOT pip install these manually — buildozer manages them
+# pyjnius
+# android
+# cython

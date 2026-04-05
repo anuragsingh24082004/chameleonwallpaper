@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+env/
+.env
+.venv
+
+# Buildozer / Android
+.buildozer/
+bin/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Kivy cache
+.kivy/
+
+# Logs
+*.log
+buildozer.log
